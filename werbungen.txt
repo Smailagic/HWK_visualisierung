@@ -1,0 +1,39 @@
+﻿{
+  "_id": {
+    "$oid": "62065b4d7a08571af7e7dbe8"
+  },
+  "product": "Bier",
+  "images": [
+    {
+      "text": [
+        "Jedva čekam da se odčepimo!,#IOVOCEPROCI"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620665d27a08571af7e7dc72"
+  },
+  "product": "Milch",
+  "images": [
+    {
+      "text": [
+        "Milch ist meine Stärke",
+        "Bernhard Hoëcker, Deutschlands größter Comedian: „Seit meine Karriere als Basketballprofi gescheitert ist, bin ich größter Denksportler. Und dabei hilft mir die Milch mit Milchzucker und Vitamin B12 zur Stärkung meiner Denkleistung.“",
+        "Das Beste vom Bauern CMA"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620668677a08571af7e7dc8b"
+  },
+  "product": "Bier",
+  "images": [
+    {
+      "text": [
+        "Rut un wieß wie lieb ich dich."
+      ]
+    }
+  ]
+}

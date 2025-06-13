@@ -1,0 +1,82 @@
+Häufigkeit von 'Leistung' in Kombination mit 'product' (sortiert nach Häufigkeit):
+Rasierer: 6
+Mehl: 5
+Auto: 4
+Bekleidung: 4
+Gesichtspflege: 4
+Hörgeräte: 4
+Waschmittel: 4
+Bausparkasse: 3
+Deodorant: 3
+Kapseln: 3
+Krankenkasse: 3
+Medikament: 3
+Parfüm: 3
+Reinigungsmittel: 3
+Versicherung: 3
+Aluminiumleiter: 2
+BH: 2
+Blumenversand: 2
+Einbaumülleimer: 2
+Enzyklopädie: 2
+Fernseher: 2
+Feuchte Toilettentücher: 2
+Handy: 2
+Kaffevollautomat: 2
+Kleber: 2
+Kofferraumwannen: 2
+Küche: 2
+Milch: 2
+Saft: 2
+Tücher: 2
+
+Häufigkeit von 'Leistung' in Kombination mit 'place' (absolute Häufigkeit):
+Internet: 93
+Alverde-Magazin: 24
+GQ Magazin: 17
+Verpackung: 15
+Brigitte Magazin: 12
+Magazin: 11
+Instagram: 10
+
+Prozentuale Häufigkeit von 'Leistung' in Kombination mit 'place' (bezogen auf alle 'Leistung'-Datensätze):
+Internet: 50.82%
+Alverde-Magazin: 13.11%
+GQ Magazin: 9.29%
+Verpackung: 8.20%
+Brigitte Magazin: 6.56%
+Magazin: 6.01%
+Instagram: 5.46%
+
+Häufigkeit von 'Leistung' in Kombination mit 'brand' (sortiert nach Häufigkeit):
+Kind: 5
+Hailo: 4
+NIVEA: 4
+Beurer: 3
+LBS: 3
+Hansaplast: 3
+Brockhaus: 3
+Tempo: 3
+Melitta: 3
+L'Oréal Paris: 3
+Barmer: 3
+Aspirin: 3
+Schapfen Mühle: 3
+Gillette: 3
+Braun: 3
+Denk mit: 3
+BMW: 2
+Philips: 2
+Fleurop: 2
+Kölln: 2
+Milram: 2
+Loewe: 2
+Garnier: 2
+SIEMENS: 2
+Carbox: 2
+DKV: 2
+KÜCHEN QUELLE: 2
+Caramba: 2
+Carglass: 2
+Kravag: 2
+Persil: 2
