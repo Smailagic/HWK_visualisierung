@@ -171,7 +171,7 @@ else:
         sys.exit()
 
     ax_button_back = plt.axes([0.4, 0.05, 0.2, 0.075])
-    button_back = plt.Button(ax_button_back, 'Zurück zur Auswahl', color='blue', hovercolor='lightblue')
+    button_back = plt.Button(ax_button_back, 'Zurück zur Auswahl', color='green', hovercolor='lightblue')
     button_back.on_clicked(lambda event: restart_script())
 
     ax_button_exit = plt.axes([0.7, 0.05, 0.2, 0.075])
